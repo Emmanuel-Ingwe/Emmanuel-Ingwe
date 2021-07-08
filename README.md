@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Emmanuel-Ingwe
-- 👀 I’m interested in Technology, Entertainment & Sports...
+- 👋 Hi, I’m Emmanuel Ingwe
+- A Software developer.
+- 👀 I’m interested in Technology, software, Entertainment & Sports...
 - 🌱 I’m currently learning css & javascript...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me...send a mail.
+- looking forward to learing UI/UX Design.
+- 💞️
+- 📫 How to reach me...send a mail-ingwemmanuel@gmail.com
 
 <!---
 Emmanuel-Ingwe/Emmanuel-Ingwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
