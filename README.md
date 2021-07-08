@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning css & javascript...
 - looking forward to learing UI/UX Design.
 - 💞️
-- 📫 How to reach me...send a mail-ingwemmanuel@gmail.com
+- 📫 How to reach me...send a mail- ingwemmanuel@gmail.com
 
 <!---
 Emmanuel-Ingwe/Emmanuel-Ingwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
