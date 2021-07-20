@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Emmanuel Ingwe
 - A Software developer.
 - 👀 I’m interested in Technology, software, Entertainment & Sports...
-- 🌱 I’m currently learning css & javascript...
-- looking forward to learing UI/UX Design.
+- 🌱 I’m currently learning javascript & moree of it...
+- looking forward to learning UI/UX Design.
 - 💞️
 - 📫 How to reach me...send a mail- ingwemmanuel@gmail.com
 
