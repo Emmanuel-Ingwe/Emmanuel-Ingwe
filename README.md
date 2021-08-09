@@ -24,7 +24,7 @@
 
 
 [![GitHub emmanuel-ingwe](https://img.shields.io/github/followers/emmanuel-ingwe?label=follow&style=social)](https://github.com/emmanueingwe)
-[![website](https://img.shields.io/badge/PortfolioWebsite-emmanuelingwe.com-2648ff?style=flat-square&logo=google-chrome)](https://emmanuelingwe.com/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-emmanuelingwe.com-2648ff?style=flat-square&logo=google-chrome)](https://emmanuel-ingwe.github.io/INGWE_Portfolio/)
 
 
 **Languages and Tools:**
