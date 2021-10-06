@@ -12,7 +12,7 @@
 <!-- <a href="https://instagram.com/ru_ingwe/">
   <img align="left" alt="rui's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a> -->
-<a href="https://web.facebook.com/anas.tesia.737/>
+<a href="https://web.facebook.com/anas.tesia.737/">
   <img align="left" alt="ingwe's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <!-- <a href="https://behance.net/emmanuelingwe">
