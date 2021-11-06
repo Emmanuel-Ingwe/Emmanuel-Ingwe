@@ -1,4 +1,4 @@
-## Heyy Whatsup! I'm [Emmanuel Ingwe!](https://emmanuel-ingwe.github.io/INGWE_Portfolio/) 👋
+## Hello! I'm [Emmanuel Ingwe!](https://emmanuel-ingwe.github.io/INGWE_Portfolio/) 👋
 
 <!-- <a href="https://twitter.com/RichardIngwe?s=09"> -->
 <!--   <img align="left" alt="rui's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
