@@ -1,6 +1,6 @@
 ## Hello! I'm [Emmanuel Ingwe!](https://emmanuel-ingwe.github.io/INGWE_Portfolio/) 👋
 
-<a href="https://twitter.com/emmanuel-ingwe?s=09">
+<a href="https://twitter.com/ingwe_emmanuel?s=09">
 <img align="left" alt="ingwe's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> 
 <a href="https://linkedin.com/in/emmanuel-ingwe-836961216">
