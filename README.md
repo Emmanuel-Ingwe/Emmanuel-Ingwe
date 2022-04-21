@@ -1,8 +1,8 @@
 ## Hello! I'm [Emmanuel Ingwe!](https://emmanuel-ingwe.github.io/INGWE_Portfolio/) 👋
 
-<!-- <a href="https://twitter.com/RichardIngwe?s=09"> -->
-<!--   <img align="left" alt="rui's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a> -->
+< <a href="https://twitter.com/emmanuel-ingwe?s=09">
+<img align="left" alt="ingwe's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a> 
 <a href="https://linkedin.com/in/emmanuel-ingwe-836961216">
   <img align="left" alt="emmanuelingwe Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -26,6 +26,7 @@
 [![GitHub emmanuel-ingwe](https://img.shields.io/github/followers/emmanuel-ingwe?label=follow&style=social)](https://github.com/emmanueingwe)
 [![website](https://img.shields.io/badge/PortfolioWebsite-emmanuelingwe.com-2648ff?style=flat-square&logo=google-chrome)](https://emmanuel-ingwe.github.io/INGWE_Portfolio/)
 
+https://skyline.github.com/emmanuel-ingwe/2021?annotation0=2021-06-05,2021-06-05,Started%20a%20new%20job%20today%3F%20Not%20yet%0ABut%2C%20Moves%20%20to%20that%20way%20%5E%5E
 
 **Languages and Tools:**
 
