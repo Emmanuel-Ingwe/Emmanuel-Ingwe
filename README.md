@@ -25,14 +25,7 @@
 
 
 
-<a href="https://skyline.github.com/emmanuel-ingwe/2021?annotation0=2021-06-05,2021-06-05,Started%20a%20new%20job%20today%3F%20Not%20yet%0ABut%2C%20Moves%20%20to%20that%20way%20%5E%5E">MY SKYLINE❤️</a>
-
-**Languages and Tools:**
-
-<code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> Javascript</code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"> Vue.js</code>
-<code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"> css</code>
-<code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> html</code>    
+<a href="https://skyline.github.com/emmanuel-ingwe/2021?annotation0=2021-06-05,2021-06-05,Started%20a%20new%20job%20today%3F%20Not%20yet%0ABut%2C%20Moves%20%20to%20that%20way%20%5E%5E">MY SKYLINE❤️</a>   
 
 <!-- <a href="https://github.com/richardingwe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardingwe&theme=light&hide_langs_below=1" />
